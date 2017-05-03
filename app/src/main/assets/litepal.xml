@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="test_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.houjun.testweather.db.Province"/>
+        <mapping class="com.houjun.testweather.db.City"/>
+        <mapping class="com.houjun.testweather.db.Country"/>
+    </list>
+</litepal>
